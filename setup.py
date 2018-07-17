@@ -6,16 +6,16 @@ datafiles = [(d, [os.path.join(d,f) for f in files])
     for d, folders, files in os.walk(datadir)]
 
 setup(
-    name='rozetPySDK',
-    version='1.0.3',
+    name='rozet',
+    version='1.0.4',
     packages=find_packages(),
     include_package_data=True,
     data_files=datafiles,
-    url='https://github.com/ShagaleevAlexey/RozetPySDK',
+    url='https://github.com/RozetProtocol/rozetPythonSdk',
     license='MIT',
-    author='Alexey Shagaleev',
-    author_email='alexey.shagaleev@yandex.ru',
-    description='This is rozetSDK for Rozet Smart Contracts',
+    author='Rozet',
+    author_email='dave@rozet.io',
+    description='SDK for Rozet Smart Contracts',
     install_requires=[
         'web3',
         'base58',

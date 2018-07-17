@@ -1,6 +1,6 @@
 from rozet import Rozet, Badge
 
-mnemonic = 'reward bring dad citizen confirm easily fix traffic pretty name ceiling swap'
+mnemonic = 'example example example example example example example example example example example example'
 r = Rozet(mnemonic=mnemonic)
 
 badge = Badge(
