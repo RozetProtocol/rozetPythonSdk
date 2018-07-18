@@ -7,7 +7,7 @@ datafiles = [(d, [os.path.join(d,f) for f in files])
 
 setup(
     name='rozet',
-    version='1.0.4',
+    version='1.0.5',
     packages=find_packages(),
     include_package_data=True,
     data_files=datafiles,
