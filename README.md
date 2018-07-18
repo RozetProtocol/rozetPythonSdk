@@ -1,6 +1,6 @@
 # Rozet Python SDK
 
-The Rozet Python SDK implements the client-side libraries used by
+The Rozet Python SDK implements the python server-side libraries used by
 applications using the Rozet protocols. This SDK is distributed via:
 
 - [pip package](https://pypi.org/project/rozet/)
