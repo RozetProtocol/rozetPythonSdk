@@ -3,7 +3,7 @@
 The Rozet Python SDK implements the client-side libraries used by
 applications using the Rozet protocols. This SDK is distributed via:
 
-- [pip package](https://www.npmjs.com/package/rozet)
+- [pip package](https://pypi.org/project/rozet/)
 
 ## Getting Started
 
@@ -12,7 +12,7 @@ applications using the Rozet protocols. This SDK is distributed via:
 To use Rozet in your project, run:
 
 ```bash
-pip install rozetpysdk
+pip install rozet
 ```
 
 ### Usage
@@ -86,4 +86,4 @@ python3.6 listenForBadges.py
 ```
 
 ## Licence
-You can view our [licence here](https://github.com/ShagaleevAlexey/RozetPySDK/blob/master/LICENSE).
+You can view our [licence here](https://github.com/RozetProtocol/rozetPythonSdk/blob/master/LICENSE).
