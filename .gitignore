@@ -1,4 +1,4 @@
 dist/*
-rozetPySDK.egg-info/*
+rozet.egg-info/*
 venv/*
 .DS_Store
