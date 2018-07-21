@@ -1,6 +1,6 @@
 # Rozet Python SDK
 
-[Javascript](https://github.com/RozetProtocol/rozetJavascriptSdk) | [Python](https://github.com/RozetProtocol/rozetPythonSdk)
+[Javascript](https://github.com/RozetProtocol/rozetJavascriptSdk) | [Java](https://github.com/RozetProtocol/rozetJavaSdk)
 
 The Rozet Python SDK implements the python server-side libraries used by
 applications using the Rozet protocols. This SDK is distributed via:
