@@ -87,5 +87,5 @@ or
 python3.6 listenForBadges.py
 ```
 
-## Licence
-You can view our [licence here](https://github.com/RozetProtocol/rozetPythonSdk/blob/master/LICENSE).
+## License
+You can view our [license here](https://github.com/RozetProtocol/rozetPythonSdk/blob/master/LICENSE).
